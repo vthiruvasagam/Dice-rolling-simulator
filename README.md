@@ -25,13 +25,13 @@ This is a simple Python program that simulates rolling a six-sided dice. Each ti
 2. **Download the script** or copy the code into a file named:
 
    ```
-   dice_roller.py
+   dice rolling simulator.py
    ```
 
 3. **Run the script** from your terminal:
 
    ```bash
-   python dice_roller.py
+   python dice rolling simulator.py
    ```
 
 4. **Follow the prompts**
@@ -68,10 +68,6 @@ Roll again? (y/n): y
 * Creating ASCII art for visual output
 * Implementing a game loop
 
----
 
-### 📜 License
-
-This project is free to use under the MIT License.
 
 

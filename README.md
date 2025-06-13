@@ -1,7 +1,3 @@
-Sure! Here's a `README.md` file for the **console-based Dice Rolling Simulator** (the non-GUI version using ASCII art):
-
----
-
 ## 🎲 Dice Rolling Simulator (Console Version)
 
 This is a simple Python program that simulates rolling a six-sided dice. Each time the user presses Enter, the program randomly selects and displays a dice face using ASCII art.
